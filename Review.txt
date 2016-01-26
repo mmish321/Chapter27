@@ -1,0 +1,14 @@
+1.Point, Awt
+2.Constructors
+3.Parameter
+4.toString()
+5.garbage
+6.alias
+7.==
+8.equals()
+9.String, toString
+10.False
+true
+False
+True
+False
